@@ -1,0 +1,7 @@
+
+
+Yahan API endpoints define karte hei 
+
+
+
+Purpose: kis URL pe konsa controller chalega basicly jo controller hum banaty hei request response k leye un ko hum es routes mei use karty hei and yaha par hum end points define karty hei k actual mei api dekhegi kesi jese /logout /login /signup etc...

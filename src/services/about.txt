@@ -1,0 +1,12 @@
+
+
+Yahan actual business logic hoti hai
+
+Example:
+
+Message send karna
+Friend request accept karna
+Server create karna
+Notification generate karna
+
+Purpose: sabse important logic yahan hoti hai database k saat intract hona crud oprations execute karna etc.

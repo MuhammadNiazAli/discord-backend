@@ -1,0 +1,4 @@
+
+es validation folder mei zod ya koi aur spacipic validation code aega 
+
+porpus: Frontend se aane wala data validate karna

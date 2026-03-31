@@ -1,0 +1,13 @@
+
+
+ye config file hei Yahan application ki configuration hoti hai.
+
+Examples:
+
+MongoDB connection
+JWT secret
+Cloudinary config
+Environment variables
+Socket config
+
+Purpose: app ke important settings ek jagah manage karna.

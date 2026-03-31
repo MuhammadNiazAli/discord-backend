@@ -1,0 +1,12 @@
+
+
+Middlewares Express ke beech me chalne wale functions hote hain
+
+Examples:
+
+User login check
+Error handling
+Role permission
+Request validation
+
+Discord clone me kisi private server ya channel ko open karne se pehle check karna ke user logged in hai ya nahi basicly cookies ko check karta hei k user valid hei ya nahi os k paas accessToken hei ya nahi agar hei tu hi ose access melni chahiye 

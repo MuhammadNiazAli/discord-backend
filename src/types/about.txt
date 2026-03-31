@@ -1,0 +1,5 @@
+
+
+Custom TypeScript types/interfaces
+
+Purpose:req.user, socket data, custom interfaces define karna

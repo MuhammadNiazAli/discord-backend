@@ -1,0 +1,14 @@
+
+MongoDB/Mongoose schemas yahan hoti hain.
+
+Example:
+User ke fields:
+
+username
+email
+avatar
+friends
+servers
+status
+
+Purpose: database structure define karna jese kisi user nei login ya signup keya tu os nei jo feilds fill keye un ko kahi tu store karna hi hei os ko ek order of structure mei kisi jaga store karne k leye ye models use hoty hei es mei ui inputs ka behind the seen schema logic hota hei

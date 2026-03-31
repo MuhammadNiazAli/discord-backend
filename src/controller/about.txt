@@ -1,0 +1,7 @@
+
+
+Controller sirf request aur response handle karta hai
+
+yaha serif api ka request aur response logic hi hona chahiye 
+
+Purpose: controller me business logic nahi honi chahiye bussness logic means crud oprations database k saat intractions karna update karna delete karna ya data kahi bejna post methods etc.. o sab Services folder mei execute hoty hei
